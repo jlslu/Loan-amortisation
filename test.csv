@@ -1,0 +1,3 @@
+﻿loan_amount,interest_rate,start_year,start_month,start_day,loan_duration,payment_frequency,amortized,grace_period
+1000,8,2024,10,1,7,4,0,0
+2000,6,2024,10,1,5,4,1,8
